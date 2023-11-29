@@ -1,0 +1,7 @@
+pyautogui
+selenium
+webdriver-manager
+beautifulsoup4
+pandas
+opencv-python
+numpy
